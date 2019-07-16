@@ -90,3 +90,5 @@
 - ##### [vue-markdown（Markdown编辑器）](https://github.com/miaolz123/vue-markdown)
 
 - ##### [vue-social-sharing（社交分享）](https://github.com/nicolasbeauvais/vue-social-sharing)
+
+- ##### [大图插件-vue-photo-preview](https://npm.taobao.org/package/vue-photo-preview)
